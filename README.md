@@ -797,7 +797,8 @@ This project represents significant development effort in creating a stable, sec
 - [VirtualAPK](https://github.com/didi/VirtualAPK) - Plugin framework inspiration
 - [BlackReflection](https://github.com/CodingGay/BlackReflection) - Reflection utilities
 - [FreeReflection](https://github.com/tiann/FreeReflection) - Enhanced reflection support
-- [Pine](https://github.com/canyie/pine) - Hook framework
+- [Dobby](https://github.com/jmpews/Dobby) - Native hook framework for ARM/ARM64/x86/x64
+- [xDL](https://github.com/hexhacking/xDL) - Android dynamic linker utilities
 
 ### License
 
