@@ -12,7 +12,7 @@
     <string name="tg_group">交流群</string>
     <string name="setting">软件设置</string>
     <string name="permission_setting">权限设置</string>
-    <string name="fake_location">虚拟定位</string>
+    <string name="fake_location">虚拟定位(预览版)</string>
     <string name="real_location">真实位置</string>
     <string name="set_location">虚拟定位设置成功:%s-%s</string>
     <string name="close_fake_location">关闭虚拟定位</string>
@@ -63,5 +63,4 @@
     <string name="disable_gms">关闭服务</string>
     <string name="disable_gms_hint">是否清除当前Google服务环境？Google服务数据将被清空。</string>
     <string name="no_gms">当前手机没有Google服务环境。</string>
-    <string name="app_open">打开App</string>
 </resources>

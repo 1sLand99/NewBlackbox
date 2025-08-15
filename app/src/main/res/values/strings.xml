@@ -10,7 +10,7 @@
     <string name="open_source_path">Open Source</string>
     <string name="xp_setting">Xposed Setting</string>
     <string name="tg_group">Telegram Group</string>
-    <string name="fake_location">Fake Location</string>
+    <string name="fake_location">Fake Location(Preview)</string>
     <string name="real_location">Real Location</string>
     <string name="set_location">Set Fake Location Successfully:%s-%s</string>
     <string name="close_fake_location">Disable FakeLocation</string>
@@ -31,7 +31,6 @@
     <string name="app_stop">Stop Running</string>
     <string name="app_stop_hint">Do you want to stop %s forcibly?</string>
     <string name="is_stop">%s is Stopped</string>
-    <string name="app_open">Open App</string>
     <string name="app_clear">Clear Data</string>
     <string name="app_clear_hint">Clear Data for %s?</string>
     <string name="app_remove">Uninstall App</string>
